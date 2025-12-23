@@ -1,0 +1,53 @@
+2025-12-23 18:16:39,923 [INFO] patching driver executable C:\Users\91630\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 18:16:43,678 [INFO] Downloading (1/26): https://www.close.com/product
+2025-12-23 18:16:45,834 [INFO] Saved: downloaded_html\explore-close.html
+2025-12-23 18:16:47,853 [INFO] Downloading (2/26): https://www.close.com/crm
+2025-12-23 18:16:49,406 [INFO] Saved: downloaded_html\crm.html
+2025-12-23 18:16:51,479 [INFO] Downloading (3/26): https://www.close.com/demo
+2025-12-23 18:16:53,302 [INFO] Saved: downloaded_html\close-demo.html
+2025-12-23 18:16:55,748 [INFO] Downloading (4/26): https://www.close.com/communication
+2025-12-23 18:16:57,670 [INFO] Saved: downloaded_html\communication.html
+2025-12-23 18:17:00,108 [INFO] Downloading (5/26): https://www.close.com/automation
+2025-12-23 18:17:01,855 [INFO] Saved: downloaded_html\automation.html
+2025-12-23 18:17:04,321 [INFO] Downloading (6/26): https://www.close.com/ai-crm
+2025-12-23 18:17:05,663 [INFO] Saved: downloaded_html\sales-ai.html
+2025-12-23 18:17:08,212 [INFO] Downloading (7/26): https://www.close.com/integrations
+2025-12-23 18:17:09,117 [INFO] Saved: downloaded_html\integrations.html
+2025-12-23 18:17:12,393 [INFO] Downloading (8/26): https://www.close.com/reporting
+2025-12-23 18:17:13,093 [INFO] Saved: downloaded_html\reporting.html
+2025-12-23 18:17:15,572 [INFO] Downloading (9/26): https://www.close.com/coaching
+2025-12-23 18:17:16,640 [INFO] Saved: downloaded_html\coaching-and-collaboration.html
+2025-12-23 18:17:19,995 [INFO] Downloading (10/26): https://www.close.com/pricing
+2025-12-23 18:17:21,219 [INFO] Saved: downloaded_html\pricing.html
+2025-12-23 18:17:24,415 [INFO] Downloading (11/26): https://www.close.com/blog
+2025-12-23 18:17:27,897 [INFO] Saved: downloaded_html\blog.html
+2025-12-23 18:17:30,222 [INFO] Downloading (12/26): https://www.close.com/resources
+2025-12-23 18:17:30,952 [INFO] Saved: downloaded_html\resources.html
+2025-12-23 18:17:34,462 [INFO] Downloading (13/26): https://www.close.com/tools/revenue-growth-calculator
+2025-12-23 18:17:36,643 [INFO] Saved: downloaded_html\roi-calculator.html
+2025-12-23 18:17:40,009 [INFO] Downloading (14/26): https://www.close.com/office-hours
+2025-12-23 18:17:41,827 [INFO] Saved: downloaded_html\office-hours.html
+2025-12-23 18:17:44,586 [INFO] Downloading (15/26): https://help.close.com/
+2025-12-23 18:17:46,126 [INFO] Saved: downloaded_html\help-docs.html
+2025-12-23 18:17:49,538 [INFO] Downloading (16/26): https://www.close.com/blueprint
+2025-12-23 18:17:52,358 [INFO] Saved: downloaded_html\the-0-to-30m-blueprint.html
+2025-12-23 18:17:54,675 [INFO] Downloading (17/26): https://www.close.com/willvsjen
+2025-12-23 18:17:55,963 [INFO] Saved: downloaded_html\will-vs-jen.html
+2025-12-23 18:17:58,434 [INFO] Downloading (18/26): https://www.close.com/sales-playmaker
+2025-12-23 18:18:01,081 [INFO] Saved: downloaded_html\sales-playmaker.html
+2025-12-23 18:18:04,087 [INFO] Downloading (19/26): https://www.close.com/topic/product-content
+2025-12-23 18:18:06,274 [INFO] Saved: downloaded_html\product-content.html
+2025-12-23 18:18:09,167 [INFO] Downloading (20/26): https://www.close.com/customers
+2025-12-23 18:18:10,289 [INFO] Saved: downloaded_html\case-studies.html
+2025-12-23 18:18:13,542 [INFO] Downloading (21/26): https://www.close.com/webinars
+2025-12-23 18:18:14,315 [INFO] Saved: downloaded_html\webinars.html
+2025-12-23 18:18:17,554 [INFO] Downloading (22/26): https://www.close.com/demo-site
+2025-12-23 18:18:18,551 [INFO] Saved: downloaded_html\product-tour.html
+2025-12-23 18:18:21,012 [INFO] Downloading (23/26): https://www.close.com/partners
+2025-12-23 18:18:21,871 [INFO] Saved: downloaded_html\partner-with-close.html
+2025-12-23 18:18:24,761 [INFO] Downloading (24/26): https://www.close.com/about
+2025-12-23 18:18:25,721 [INFO] Saved: downloaded_html\about.html
+2025-12-23 18:18:28,644 [INFO] Downloading (25/26): https://app.close.com/login/
+2025-12-23 18:18:30,623 [INFO] Saved: downloaded_html\log-in.html
+2025-12-23 18:18:34,017 [INFO] Downloading (26/26): https://app.close.com/signup/
+2025-12-23 18:18:37,327 [INFO] Saved: downloaded_html\try-close.html
