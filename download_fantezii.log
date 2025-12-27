@@ -1,0 +1,12 @@
+2025-12-26 13:05:25,835 [INFO] patching driver executable C:\Users\91630\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 13:05:30,118 [INFO] Downloading (1/6): https://fanteziigreieriprostii.ro/
+2025-12-26 13:05:36,019 [INFO] Saved: downloaded_html_fantezii\prima-pagin.html
+2025-12-26 13:05:39,471 [INFO] Downloading (2/6): https://fanteziigreieriprostii.ro/contact/
+2025-12-26 13:05:40,985 [INFO] Saved: downloaded_html_fantezii\contact.html
+2025-12-26 13:05:44,270 [INFO] Downloading (3/6): https://fanteziigreieriprostii.ro/despre-fgp/
+2025-12-26 13:05:46,381 [INFO] Saved: downloaded_html_fantezii\fantezii-greieri-prostii.html
+2025-12-26 13:05:49,501 [INFO] Downloading (4/6): https://fanteziigreieriprostii.ro/despre-fgp/camera-cu-greieri/
+2025-12-26 13:05:51,692 [INFO] Saved: downloaded_html_fantezii\camera-cu-greieri.html
+2025-12-26 13:05:55,010 [INFO] Skipping existing file: downloaded_html_fantezii\fantezii-greieri-prostii.html
+2025-12-26 13:05:55,011 [INFO] Downloading (6/6): https://fanteziigreieriprostii.ro/termeni-conditii-fgp/
+2025-12-26 13:05:56,160 [INFO] Saved: downloaded_html_fantezii\termeni-si-conditii.html

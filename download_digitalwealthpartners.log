@@ -1,0 +1,13 @@
+2025-12-24 15:30:32,585 [INFO] patching driver executable C:\Users\91630\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-24 15:30:37,308 [INFO] Downloading (1/6): https://www.digitalwealthpartners.net/
+2025-12-24 15:30:42,756 [INFO] Saved: downloaded_html_digitalwealthpartners\home.html
+2025-12-24 15:30:45,527 [INFO] Downloading (2/6): https://www.digitalwealthpartners.net/services/
+2025-12-24 15:30:47,951 [INFO] Saved: downloaded_html_digitalwealthpartners\services.html
+2025-12-24 15:30:50,623 [INFO] Downloading (3/6): https://www.digitalwealthpartners.net/digital-asset-custody/
+2025-12-24 15:30:52,870 [INFO] Saved: downloaded_html_digitalwealthpartners\digital-asset-custody.html
+2025-12-24 15:30:55,656 [INFO] Downloading (4/6): https://www.digitalwealthpartners.net/about-us/
+2025-12-24 15:30:58,430 [INFO] Saved: downloaded_html_digitalwealthpartners\about-us.html
+2025-12-24 15:31:00,644 [INFO] Downloading (5/6): https://www.digitalwealthpartners.net/blog/
+2025-12-24 15:31:03,703 [INFO] Saved: downloaded_html_digitalwealthpartners\blog.html
+2025-12-24 15:31:06,285 [INFO] Downloading (6/6): https://www.digitalwealthpartners.net/contact-us/
+2025-12-24 15:31:08,974 [INFO] Saved: downloaded_html_digitalwealthpartners\contact-us.html

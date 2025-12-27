@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 import undetected_chromedriver as uc
 driver = uc.Chrome()
-driver.get("https://www.close.com/")
+driver.get("https://fanteziigreieriprostii.ro/")
 # save html page of this url
-with open("close.html", "w", encoding="utf-8") as f:
+with open("fanteziigreieriprostii.html", "w", encoding="utf-8") as f:
     f.write(driver.page_source)

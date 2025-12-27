@@ -1,0 +1,16 @@
+2025-12-25 06:28:04,101 [INFO] patching driver executable C:\Users\91630\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-25 06:28:10,785 [INFO] Downloading (1/8): https://digitalfamilyoffice.io/
+2025-12-25 06:28:40,521 [INFO] Saved: downloaded_html_digitalfamilyoffice\home.html
+2025-12-25 06:28:43,427 [INFO] Downloading (2/8): https://www.digitalfamilyoffice.io/our-services/
+2025-12-25 06:28:49,115 [INFO] Saved: downloaded_html_digitalfamilyoffice\our-services.html
+2025-12-25 06:28:51,803 [INFO] Downloading (3/8): https://www.digitalfamilyoffice.io/who-we-serve/
+2025-12-25 06:28:55,824 [INFO] Saved: downloaded_html_digitalfamilyoffice\who-we-serve.html
+2025-12-25 06:28:58,601 [INFO] Downloading (4/8): https://www.digitalfamilyoffice.io/about-us/
+2025-12-25 06:29:02,776 [INFO] Saved: downloaded_html_digitalfamilyoffice\about-us.html
+2025-12-25 06:29:06,174 [INFO] Downloading (5/8): https://www.digitalfamilyoffice.io/blog/
+2025-12-25 06:29:09,833 [INFO] Saved: downloaded_html_digitalfamilyoffice\blog.html
+2025-12-25 06:29:12,644 [INFO] Downloading (6/8): https://www.digitalfamilyoffice.io/book-a-call/
+2025-12-25 06:29:20,303 [INFO] Saved: downloaded_html_digitalfamilyoffice\get-a-consultation.html
+2025-12-25 06:29:23,220 [INFO] Downloading (7/8): https://www.digitalfamilyoffice.io/contact-us/
+2025-12-25 06:29:31,867 [INFO] Saved: downloaded_html_digitalfamilyoffice\contact-us.html
+2025-12-25 06:29:35,331 [INFO] Skipping existing file: downloaded_html_digitalfamilyoffice\contact-us.html

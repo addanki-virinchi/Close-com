@@ -147,3 +147,17 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+# Complete the `scraper_digital.py` file by implementing a navigation link scraper for digitalwealthpatners.com, following the same structure and approach used in `scraper.py` for Close.com. 
+
+# Requirements:
+# 1. Create an HTML parser class similar to `TopNavParser` that extracts navigation links from Pipedrive's website
+# 2. Implement the same core functions: `is_pipedrive_domain()`, `normalize_link()`, `should_skip_link()`, and `extract_top_nav_links()`
+# 3. Update the BASE_URL to "https://www.digitalwealthpartners.net"
+# 4. Parse the `digitalwealthpartners.html` file (which should already exist in the project directory)
+# 5. Extract all navigation bar links, filtering out logos, JavaScript links, mailto links, and duplicates
+# 6. Save the results to `navigation_links_digitalwealthpartners.csv` with the same CSV structure: columns "link_text" and "full_url"
+# 7. Maintain the same code organization and error handling patterns as the original `scraper.py`
+
+# The output CSV should contain clean, deduplicated navigation links from Pipedrive's top navigation bar, similar to how `navigation_links.csv` contains Close.com's navigation links.

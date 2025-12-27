@@ -1,0 +1,139 @@
+2025-12-23 18:57:15,057 [INFO] patching driver executable C:\Users\91630\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 18:57:20,818 [INFO] Downloading (1/69): https://www.pipedrive.com/en/products
+2025-12-23 18:57:22,053 [INFO] Saved: downloaded_html_pipedrive\products.html
+2025-12-23 18:57:25,313 [INFO] Downloading (2/69): https://www.pipedrive.com/en/products/sales
+2025-12-23 18:57:28,261 [INFO] Saved: downloaded_html_pipedrive\see-all-sales-software-features.html
+2025-12-23 18:57:31,245 [INFO] Downloading (3/69): https://www.pipedrive.com/en/products/sales/automations
+2025-12-23 18:57:33,388 [INFO] Saved: downloaded_html_pipedrive\sales-automation.html
+2025-12-23 18:57:35,901 [INFO] Downloading (4/69): https://www.pipedrive.com/en/products/sales/leads
+2025-12-23 18:57:39,011 [INFO] Saved: downloaded_html_pipedrive\lead-management.html
+2025-12-23 18:57:41,771 [INFO] Downloading (5/69): https://www.pipedrive.com/en/features/insights-and-reports
+2025-12-23 18:57:45,225 [INFO] Saved: downloaded_html_pipedrive\insights-and-reports.html
+2025-12-23 18:57:47,891 [INFO] Downloading (6/69): https://www.pipedrive.com/en/products/sales/email-and-communications
+2025-12-23 18:57:50,900 [INFO] Saved: downloaded_html_pipedrive\email-and-communications.html
+2025-12-23 18:57:53,684 [INFO] Downloading (7/69): https://www.pipedrive.com/en/products/what-is-crm
+2025-12-23 18:57:57,760 [INFO] Saved: downloaded_html_pipedrive\crm.html
+2025-12-23 18:57:59,998 [INFO] Downloading (8/69): https://www.pipedrive.com/en/products/sales-prospecting-software
+2025-12-23 18:58:00,799 [INFO] Saved: downloaded_html_pipedrive\pulse.html
+2025-12-23 18:58:02,901 [INFO] Downloading (9/69): https://www.pipedrive.com/en/products/email-marketing-software
+2025-12-23 18:58:03,501 [INFO] Saved: downloaded_html_pipedrive\see-all-email-marketing-features.html
+2025-12-23 18:58:05,600 [INFO] Downloading (10/69): https://www.pipedrive.com/en/products/email-marketing-software/email-builder
+2025-12-23 18:58:07,245 [INFO] Saved: downloaded_html_pipedrive\email-builder.html
+2025-12-23 18:58:09,314 [INFO] Downloading (11/69): https://www.pipedrive.com/en/products/email-marketing-software/segmentation
+2025-12-23 18:58:09,981 [INFO] Saved: downloaded_html_pipedrive\email-segmentation.html
+2025-12-23 18:58:12,447 [INFO] Downloading (12/69): https://www.pipedrive.com/en/products/email-marketing-software/email-analytics
+2025-12-23 18:58:14,051 [INFO] Saved: downloaded_html_pipedrive\email-analytics.html
+2025-12-23 18:58:16,315 [INFO] Downloading (13/69): https://www.pipedrive.com/en/products/email-marketing-software/marketing-automation-tool
+2025-12-23 18:58:17,157 [INFO] Saved: downloaded_html_pipedrive\marketing-automation.html
+2025-12-23 18:58:19,777 [INFO] Downloading (14/69): https://www.pipedrive.com/en/marketplace
+2025-12-23 18:58:22,375 [INFO] Saved: downloaded_html_pipedrive\see-all-apps-and-integrations.html
+2025-12-23 18:58:24,416 [INFO] Downloading (15/69): https://www.pipedrive.com/en/marketplace/collections/attract-new-leads
+2025-12-23 18:58:25,382 [INFO] Saved: downloaded_html_pipedrive\attract-new-leads.html
+2025-12-23 18:58:27,708 [INFO] Downloading (16/69): https://www.pipedrive.com/en/marketplace/collections/communicate-with-leads
+2025-12-23 18:58:28,725 [INFO] Saved: downloaded_html_pipedrive\communicate-with-leads.html
+2025-12-23 18:58:31,992 [INFO] Downloading (17/69): https://www.pipedrive.com/en/marketplace/collections/create-proposals
+2025-12-23 18:58:32,735 [INFO] Saved: downloaded_html_pipedrive\manage-contracts.html
+2025-12-23 18:58:35,328 [INFO] Downloading (18/69): https://www.pipedrive.com/en/marketplace/about
+2025-12-23 18:58:35,802 [INFO] Saved: downloaded_html_pipedrive\about-marketplace.html
+2025-12-23 18:58:38,462 [INFO] Downloading (19/69): https://www.pipedrive.com/en/products/ai-crm
+2025-12-23 18:58:41,401 [INFO] Saved: downloaded_html_pipedrive\see-all-ai-powered-features.html
+2025-12-23 18:58:43,744 [INFO] Downloading (20/69): https://www.pipedrive.com/en/products/ai-crm/ai-email-writer
+2025-12-23 18:58:46,207 [INFO] Saved: downloaded_html_pipedrive\ai-email-writer.html
+2025-12-23 18:58:48,472 [INFO] Downloading (21/69): https://www.pipedrive.com/en/features/ai-sales-assistant
+2025-12-23 18:58:50,508 [INFO] Saved: downloaded_html_pipedrive\ai-sales-assistant.html
+2025-12-23 18:58:53,006 [INFO] Downloading (22/69): https://www.pipedrive.com/en/pricing
+2025-12-23 18:58:55,729 [INFO] Saved: downloaded_html_pipedrive\pricing.html
+2025-12-23 18:58:58,431 [INFO] Downloading (23/69): https://www.pipedrive.com/en/crm-comparison
+2025-12-23 18:58:58,990 [INFO] Saved: downloaded_html_pipedrive\see-all-comparisons.html
+2025-12-23 18:59:01,325 [INFO] Downloading (24/69): https://www.pipedrive.com/en/crm-comparison/pipedrive-vs-hubspot
+2025-12-23 18:59:03,309 [INFO] Saved: downloaded_html_pipedrive\hubspot.html
+2025-12-23 18:59:06,604 [INFO] Downloading (25/69): https://www.pipedrive.com/en/crm-comparison/pipedrive-vs-salesforce
+2025-12-23 18:59:07,245 [INFO] Saved: downloaded_html_pipedrive\salesforce.html
+2025-12-23 18:59:10,712 [INFO] Downloading (26/69): https://www.pipedrive.com/en/crm-comparison/pipedrive-vs-monday
+2025-12-23 18:59:12,229 [INFO] Saved: downloaded_html_pipedrive\monday-com.html
+2025-12-23 18:59:15,138 [INFO] Downloading (27/69): https://www.pipedrive.com/en/case-studies
+2025-12-23 18:59:17,111 [INFO] Saved: downloaded_html_pipedrive\see-all-case-studies.html
+2025-12-23 18:59:19,332 [INFO] Downloading (28/69): https://www.pipedrive.com/en/case-studies/tiffany-largie-case-study
+2025-12-23 18:59:21,006 [INFO] Saved: downloaded_html_pipedrive\tiffany-largie.html
+2025-12-23 18:59:23,528 [INFO] Downloading (29/69): https://www.pipedrive.com/en/case-studies/ai-bees-case-study
+2025-12-23 18:59:24,072 [INFO] Saved: downloaded_html_pipedrive\ai-bees.html
+2025-12-23 18:59:27,463 [INFO] Downloading (30/69): https://www.pipedrive.com/en/case-studies/big-dog-solar-case-study
+2025-12-23 18:59:28,761 [INFO] Saved: downloaded_html_pipedrive\big-dog-solar.html
+2025-12-23 18:59:30,914 [INFO] Downloading (31/69): https://www.pipedrive.com/en/industries
+2025-12-23 18:59:32,698 [INFO] Saved: downloaded_html_pipedrive\see-all-industries.html
+2025-12-23 18:59:35,708 [INFO] Downloading (32/69): https://www.pipedrive.com/en/industries/real-estate-crm
+2025-12-23 18:59:37,681 [INFO] Saved: downloaded_html_pipedrive\real-estate.html
+2025-12-23 18:59:39,751 [INFO] Downloading (33/69): https://www.pipedrive.com/en/industries/travel-agency-crm
+2025-12-23 18:59:41,501 [INFO] Saved: downloaded_html_pipedrive\travel-agency.html
+2025-12-23 18:59:44,677 [INFO] Downloading (34/69): https://www.pipedrive.com/en/industries/nonprofit-crm
+2025-12-23 18:59:46,003 [INFO] Saved: downloaded_html_pipedrive\nonprofit.html
+2025-12-23 18:59:48,832 [INFO] Downloading (35/69): https://www.pipedrive.com/en/roles
+2025-12-23 18:59:50,418 [INFO] Saved: downloaded_html_pipedrive\see-all-roles.html
+2025-12-23 18:59:53,316 [INFO] Downloading (36/69): https://www.pipedrive.com/en/roles/crm-for-contact-managers
+2025-12-23 18:59:53,893 [INFO] Saved: downloaded_html_pipedrive\contact-managers.html
+2025-12-23 18:59:56,236 [INFO] Downloading (37/69): https://www.pipedrive.com/en/roles/crm-for-lead-managers
+2025-12-23 18:59:58,138 [INFO] Saved: downloaded_html_pipedrive\lead-managers.html
+2025-12-23 19:00:01,573 [INFO] Downloading (38/69): https://www.pipedrive.com/en/roles/crm-design
+2025-12-23 19:00:02,922 [INFO] Saved: downloaded_html_pipedrive\designers.html
+2025-12-23 19:00:05,745 [INFO] Downloading (39/69): https://www.pipedrive.com/en/resources
+2025-12-23 19:00:06,220 [INFO] Saved: downloaded_html_pipedrive\resources.html
+2025-12-23 19:00:08,584 [INFO] Downloading (40/69): https://www.pipedrive.com/en/blog
+2025-12-23 19:00:10,380 [INFO] Saved: downloaded_html_pipedrive\see-all-articles.html
+2025-12-23 19:00:12,455 [INFO] Downloading (41/69): https://www.pipedrive.com/en/blog/learn/sales
+2025-12-23 19:00:13,779 [INFO] Saved: downloaded_html_pipedrive\sales.html
+2025-12-23 19:00:16,417 [INFO] Downloading (42/69): https://www.pipedrive.com/en/blog/learn/marketing
+2025-12-23 19:00:16,960 [INFO] Saved: downloaded_html_pipedrive\marketing.html
+2025-12-23 19:00:19,414 [INFO] Downloading (43/69): https://www.pipedrive.com/en/blog/learn/product-updates
+2025-12-23 19:00:21,446 [INFO] Saved: downloaded_html_pipedrive\product-updates.html
+2025-12-23 19:00:24,056 [INFO] Downloading (44/69): https://learn.pipedrive.com/app
+2025-12-23 19:00:28,596 [INFO] Saved: downloaded_html_pipedrive\start-learning-for-free.html
+2025-12-23 19:00:31,267 [INFO] Downloading (45/69): https://learn.pipedrive.com/app/video-tutorials
+2025-12-23 19:00:33,928 [INFO] Saved: downloaded_html_pipedrive\video-tutorials.html
+2025-12-23 19:00:36,120 [INFO] Downloading (46/69): https://support.pipedrive.com/en
+2025-12-23 19:00:37,855 [INFO] Saved: downloaded_html_pipedrive\knowledge-base.html
+2025-12-23 19:00:40,870 [INFO] Downloading (47/69): https://www.pipedrive.com/en/webinars
+2025-12-23 19:00:43,414 [INFO] Saved: downloaded_html_pipedrive\webinars.html
+2025-12-23 19:00:46,450 [INFO] Downloading (48/69): https://www.pipedrive.com/en/partner
+2025-12-23 19:00:48,265 [INFO] Saved: downloaded_html_pipedrive\become-a-partner.html
+2025-12-23 19:00:50,659 [INFO] Downloading (49/69): https://www.pipedrive.com/en/solution-provider-partnership
+2025-12-23 19:00:51,986 [INFO] Saved: downloaded_html_pipedrive\solution-providers.html
+2025-12-23 19:00:54,022 [INFO] Downloading (50/69): https://www.pipedrive.com/en/marketplace/partners
+2025-12-23 19:00:57,611 [INFO] Saved: downloaded_html_pipedrive\technology-partners.html
+2025-12-23 19:01:00,917 [INFO] Downloading (51/69): https://www.pipedrive.com/en/affiliate-partnership
+2025-12-23 19:01:02,316 [INFO] Saved: downloaded_html_pipedrive\affiliate-partners.html
+2025-12-23 19:01:04,639 [INFO] Downloading (52/69): https://developers.pipedrive.com
+2025-12-23 19:01:08,485 [INFO] Saved: downloaded_html_pipedrive\see-developer-hub.html
+2025-12-23 19:01:11,038 [INFO] Downloading (53/69): https://developers.pipedrive.com/docs/api/v1
+2025-12-23 19:01:12,855 [INFO] Saved: downloaded_html_pipedrive\api-reference.html
+2025-12-23 19:01:15,057 [INFO] Downloading (54/69): https://devcommunity.pipedrive.com
+2025-12-23 19:01:19,945 [INFO] Saved: downloaded_html_pipedrive\dev-community.html
+2025-12-23 19:01:22,912 [INFO] Downloading (55/69): https://www.pipedrive.com/en/resources/online-tools-free-downloads
+2025-12-23 19:01:24,626 [INFO] Saved: downloaded_html_pipedrive\see-all-tools-and-downloads.html
+2025-12-23 19:01:26,977 [INFO] Downloading (56/69): https://www.pipedrive.com/en/resources/free-templates
+2025-12-23 19:01:27,539 [INFO] Saved: downloaded_html_pipedrive\templates.html
+2025-12-23 19:01:29,903 [INFO] Downloading (57/69): https://www.pipedrive.com/en/resources/business-ebooks
+2025-12-23 19:01:30,496 [INFO] Saved: downloaded_html_pipedrive\ebooks.html
+2025-12-23 19:01:33,334 [INFO] Downloading (58/69): https://www.pipedrive.com/en/about
+2025-12-23 19:01:35,317 [INFO] Saved: downloaded_html_pipedrive\about.html
+2025-12-23 19:01:37,448 [INFO] Downloading (59/69): https://www.pipedrive.com/en/saas-awards-crm-reviews
+2025-12-23 19:01:39,080 [INFO] Saved: downloaded_html_pipedrive\awards.html
+2025-12-23 19:01:41,843 [INFO] Downloading (60/69): https://www.pipedrive.com/en/jobs
+2025-12-23 19:01:43,699 [INFO] Saved: downloaded_html_pipedrive\learn-more-about-careers.html
+2025-12-23 19:01:46,588 [INFO] Downloading (61/69): https://www.pipedrive.com/en/jobs/open-positions
+2025-12-23 19:01:48,535 [INFO] Saved: downloaded_html_pipedrive\open-positions.html
+2025-12-23 19:01:51,494 [INFO] Downloading (62/69): https://www.pipedrive.com/en/jobs/early-careers
+2025-12-23 19:01:52,784 [INFO] Saved: downloaded_html_pipedrive\early-careers.html
+2025-12-23 19:01:54,989 [INFO] Downloading (63/69): https://www.pipedrive.com/en/newsroom
+2025-12-23 19:01:56,990 [INFO] Saved: downloaded_html_pipedrive\check-newsroom.html
+2025-12-23 19:02:00,128 [INFO] Downloading (64/69): https://www.pipedrive.com/en/newsroom/press-kit
+2025-12-23 19:02:00,695 [INFO] Saved: downloaded_html_pipedrive\press-kit.html
+2025-12-23 19:02:02,984 [INFO] Downloading (65/69): https://status.pipedrive.com
+2025-12-23 19:02:05,900 [INFO] Saved: downloaded_html_pipedrive\check-status.html
+2025-12-23 19:02:07,918 [INFO] Downloading (66/69): https://support.pipedrive.com/en/contact-us
+2025-12-23 19:02:08,755 [INFO] Saved: downloaded_html_pipedrive\get-help.html
+2025-12-23 19:02:11,957 [INFO] Downloading (67/69): https://www.pipedrive.com/en/products/sales/onboarding
+2025-12-23 19:02:13,463 [INFO] Saved: downloaded_html_pipedrive\explore-onboarding-support.html
+2025-12-23 19:02:15,586 [INFO] Downloading (68/69): https://www.pipedrive.com/en/contact-sales
+2025-12-23 19:02:27,037 [INFO] Saved: downloaded_html_pipedrive\contact-sales.html
+2025-12-23 19:02:29,387 [INFO] Downloading (69/69): https://app.pipedrive.com/auth/login
+2025-12-23 19:02:30,048 [INFO] Saved: downloaded_html_pipedrive\log-in.html
